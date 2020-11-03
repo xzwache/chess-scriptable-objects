@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f6f4c5cd7164281b46861ae8e5e925d, type: 3}
+  m_Name: Coins
+  m_EditorClassIdentifier: 
+  _id: Coins
+  _sounds:
+  - {fileID: 11400000, guid: a3861398422834366af6a313401e8cfb, type: 2}
+  - {fileID: 11400000, guid: 17602e1322354456aa3d8e0bb70405d6, type: 2}
+  - {fileID: 11400000, guid: e647a3e7567eb41679f4b5993f314eb9, type: 2}
+  - {fileID: 11400000, guid: e9180d9e0a6be478e8d41813c0d7274c, type: 2}
